@@ -12,6 +12,7 @@ publication_short: In Lonely Planet China Magazine — 孤独星球中文杂志
 draft: false
 featured: true
 url_pdf: https://drive2world.com/archives/1808
+url_source: "https://drive2world.com/archives/1808"
 image:
   filename: featured.jpg
   focal_point: Smart
