@@ -1,6 +1,6 @@
 ---
 title: The Trip for the North
-subtitle: 寻北之旅
+subtitle: 《寻北之旅》
 publication_types:
   - "2"
 authors:
