@@ -48,7 +48,7 @@ item:
   date_end: ""
   date_start: "2016-11-01"
   #description: "ABCDE"
-  organization: 'Ctrip&ensp;Group&ensp;Trip'
+  organization: 'Ctrip Group Trip'
   title: Contracted Photographer
   url: "https://www.trip.com/"
 
