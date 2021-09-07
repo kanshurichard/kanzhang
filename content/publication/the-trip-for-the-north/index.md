@@ -11,6 +11,9 @@ publication: ""
 publication_short: In Lonely Planet China Magazine — 孤独星球中文杂志
 draft: false
 featured: true
+projects:
+  - example
+slides: example
 image:
   filename: 202108-lp.jpg
   focal_point: Smart
