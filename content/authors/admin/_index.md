@@ -1,6 +1,6 @@
 ---
 title: Zhang Kan
-role: Professor of Artificial Intelligence
+role: Travel Writer & Overlander
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
