@@ -11,12 +11,10 @@ publication: ""
 publication_short: In Lonely Planet China Magazine — 孤独星球中文杂志
 draft: false
 featured: true
-projects:
-  - example
-slides: example
+url_pdf: https://drive2world.com/archives/1808
 image:
-  filename: 202108-lp.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
-date: 2021-08-01T04:00:00.000Z
+date: 2021-08-01T00:00:00.000Z
 ---
