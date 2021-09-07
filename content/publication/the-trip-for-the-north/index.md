@@ -1,12 +1,12 @@
 ---
-title: The Trip for the North《寻北之旅》
-subtitle: ""
+title: The Trip for the North
+subtitle: 《寻北之旅》
 publication_types:
   - "2"
 authors:
   - Zhang Kan
-publication: Lonely Planet China Magazine 孤独星球中文杂志
-publication_short: ""
+publication: Lonely Planet China Magazine
+publication_short: 孤独星球中文杂志
 draft: false
 featured: true
 image:
