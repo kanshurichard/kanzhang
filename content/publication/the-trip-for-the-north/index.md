@@ -8,7 +8,7 @@ authors:
 publication: Lonely Planet China Magazine 孤独星球中文杂志
 publication_short: ""
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
