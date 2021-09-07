@@ -8,7 +8,7 @@ authors:
 author_notes:
   - 张侃
 publication: ""
-publication_short: In Lonely Planet China Magazine — 《孤独星球》中文杂志
+publication_short: Lonely Planet China Magazine — 《孤独星球》中文杂志
 draft: false
 url_source: https://drive2world.com/archives/1808
 featured: true
