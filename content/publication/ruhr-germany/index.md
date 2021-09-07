@@ -6,7 +6,7 @@ publication_types:
 authors:
   - admin
 publication: ""
-publication_short: World View — 《看世界》杂志
+publication_short: World View Magazine — 《看世界》杂志
 draft: false
 url_source: https://drive2world.com/archives/1926
 featured: true
