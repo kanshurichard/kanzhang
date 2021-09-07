@@ -5,8 +5,8 @@ publication_types:
   - "2"
 authors:
   - Zhang Kan
-publication: Lonely Planet China Magazine
-publication_short: 孤独星球中文杂志
+publication: ""
+publication_short: In Lonely Planet China Magazine — 孤独星球中文杂志
 draft: false
 featured: true
 image:
