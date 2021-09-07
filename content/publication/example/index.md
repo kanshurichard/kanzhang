@@ -1,4 +1,12 @@
 ---
+title: An example conference paper测试
+subtitle: ""
+publication_types:
+  - "1"
+authors:
+  - admin
+  - Robert Ford
+publication_short: In *ICW*
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
@@ -7,32 +15,24 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
   arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
   eleifend gravida.
-slides: example
+draft: false
+featured: true
+projects: []
+slides: exampl
 url_pdf: ""
-publication_types:
-  - "1"
-authors:
-  - admin
-  - Robert Ford
-author_notes:
-  - Equal contribution
-  - Equal contribution
-publication: In *Wowchemy Conference*
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
 url_dataset: ""
 url_project: ""
-publication_short: In *ICW*
 url_source: ""
 url_video: ""
-title: An example conference paper测试
-subtitle: ""
+author_notes:
+  - Equal contribution
+  - Equal contribution
 doi: ""
-featured: true
+publication: In *Wowchemy Conference*
 tags: []
-projects:
-  - example
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
