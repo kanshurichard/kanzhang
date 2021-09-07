@@ -35,6 +35,6 @@ main:
   - name: 联系我
     url: '#contact'
     weight: 60
-  - name: 🇨🇳 中文版
-    url: '/zh/'
+  - name: 🇺🇸 English
+    url: '/en/'
     weight: 70
