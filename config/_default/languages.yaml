@@ -12,9 +12,9 @@ en:
 zh:
   languageCode: zh-Hans
   contentDir: content/zh
-  title: 张侃 — 旅行作者 & 环球自驾客
+  title: 张侃
   params:
-    description: Site description in Chinese...
+    description: 张侃，旅行作者，环球自驾旅行者
   menu:
     main:
       - name: 主页
@@ -36,5 +36,5 @@ zh:
         url: '#contact'
         weight: 60
       - name: 🇺🇸 English
-        url: '/en/'
+        url: '../en/'
         weight: 70
