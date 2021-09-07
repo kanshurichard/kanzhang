@@ -1,10 +1,12 @@
 ---
-title: The Trip for the North
+title: Driving into the Arctic Circle
 subtitle: 《寻北之旅》
 publication_types:
   - "2"
 authors:
   - Zhang Kan
+author_notes:
+  - 张侃
 publication: ""
 publication_short: In Lonely Planet China Magazine — 孤独星球中文杂志
 draft: false
