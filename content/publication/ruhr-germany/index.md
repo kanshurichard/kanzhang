@@ -1,9 +1,16 @@
 ---
-title: Ruhr Germany
+title: Ruhr Germany — The turn of an old idustrial zone
+subtitle: 《德国鲁尔区：看一座老工业基地的转身》
 publication_types:
-  - "0"
+  - "2"
+authors:
+  - admin
+author_notes:
+  - 张侃
+publication: ""
+publication_short: World View — 《看世界》杂志
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
