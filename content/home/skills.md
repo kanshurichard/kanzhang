@@ -9,25 +9,25 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Have Been To
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+- description: by [TCC](https://travelerscenturyclub.org/countries-and-territories) standard
+  icon: plane
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: 95 Countries & Territories
+- description: Asia, Europe, Oceania, Africa & North America
+  icon: globe-europe
   icon_pack: fas
-  name: Photography
+  name: 5 Continents
+- description: by ONE vehicle in Journey of [#Drive2World](https://drive2world.com)
+  icon: car-side
+  icon_pack: fas
+  name: 47 Countries & Territories
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
