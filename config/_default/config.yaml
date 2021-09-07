@@ -12,8 +12,8 @@ copyright: '© {year} Zhang Kan' # Footer text, e.g. '© {year} Me'
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: true
-defaultContentLanguageInSubdir: true
+hasCJKLanguage: false
+defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 ############################
