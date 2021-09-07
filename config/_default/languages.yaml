@@ -20,7 +20,7 @@ zh:
       - name: 主页
         url: '#about'
         weight: 10
-      - name: 旅行博客
+      - name: 旅行博客 (drive2world.com)
         url: 'https://drive2world.com/zh/'
         weight: 20
       - name: 项目

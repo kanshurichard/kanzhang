@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Travel Blogs
+  - name: Travel Blogs (drive2world.com)
     url: 'https://drive2world.com/en/'
     weight: 20
   - name: Projects
