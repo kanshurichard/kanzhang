@@ -27,7 +27,6 @@ organizations:
   - name: "Travel Blog: Drive2World.com"
     url: https://drive2world.com/
 education:
-  courses: []
 email: ""
 superuser: true
 highlight_name: true
