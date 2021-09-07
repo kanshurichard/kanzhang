@@ -16,25 +16,25 @@ zh:
   params:
     description: Site description in Chinese...
   menu:
-main:
-  - name: 主页
-    url: '#about'
-    weight: 10
-  - name: 旅行博客
-    url: 'https://drive2world.com/zh/'
-    weight: 20
-  - name: 项目
-    url: '#projects'
-    weight: 30
-  - name: 讲座
-    url: '#talks'
-    weight: 40
-  - name: 作品
-    url: '#featured'
-    weight: 50
-  - name: 联系我
-    url: '#contact'
-    weight: 60
-  - name: 🇺🇸 English
-    url: '/en/'
-    weight: 70
+    main:
+      - name: 主页
+        url: '#about'
+        weight: 10
+      - name: 旅行博客
+        url: 'https://drive2world.com/zh/'
+        weight: 20
+      - name: 项目
+        url: '#projects'
+        weight: 30
+      - name: 讲座
+        url: '#talks'
+        weight: 40
+      - name: 作品
+        url: '#featured'
+        weight: 50
+      - name: 联系我
+        url: '#contact'
+        weight: 60
+      - name: 🇺🇸 English
+        url: '/en/'
+        weight: 70
