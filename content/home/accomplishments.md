@@ -48,7 +48,7 @@ item:
   date_end: ""
   date_start: "2016-11-01"
   #description: "ABCDE"
-  organization: 'Ctrip&nbsp;Group&nbsp;(Trip.com)&nbsp;—&nbsp;携程集团'
+  organization: 'Ctrip Group (Trip.com) — 携程集团'
   title: Contracted Photographer
   url: "https://www.trip.com/"
 
