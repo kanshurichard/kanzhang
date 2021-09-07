@@ -10,7 +10,7 @@ publication_short: 孤独星球中文杂志
 draft: false
 featured: true
 image:
-  filename: featured
+  filename: 202108-lp.jpg
   focal_point: Smart
   preview_only: false
 date: 2021-08-01T04:00:00.000Z
