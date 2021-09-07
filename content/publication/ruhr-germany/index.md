@@ -14,7 +14,8 @@ url_source: https://drive2world.com/archives/1926
 featured: true
 image:
   filename: featured
-  focal_point: Smart
+  focal_point: CENTER
   preview_only: false
 date: 2021-08-02T00:00:00.000Z
 ---
+
