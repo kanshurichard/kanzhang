@@ -27,21 +27,21 @@ item:
   date_end: ""
   date_start: "2021-05-01"
   #description: "ABCDE"
-  organization: 'Lonely&nbsp;Planet&nbsp;China&nbsp;Magazine&nbsp;—《孤独星球》中文杂志'
+  organization: 'Lonely Planet China Magazine —《孤独星球》中文杂志'
   title: Contracted Author
   url: "https://www.lonelyplanetcn.com/"
 - #certificate_url: 
   date_end: ""
   date_start: "2021-01-27"
   #description: "ABCDE"
-  organization: 'South&nbsp;Reviews&nbsp;Magazine&nbsp;—《南风窗》杂志'
+  organization: 'South Reviews Magazine —《南风窗》杂志'
   title: Contributing Author
   url: "https://www.nfcmag.com/"
 - #certificate_url: 
   date_end: ""
   date_start: "2018-07-27"
   #description: "ABCDE"
-  organization: 'VCG&nbsp;Group&nbsp;(500px.com)&nbsp;—&nbsp;视觉中国集团'
+  organization: 'VCG Group (500px.com) — 视觉中国集团'
   title: Stock Photo Contributor
   url: "https://www.vcg.com/"
 - #certificate_url: 
