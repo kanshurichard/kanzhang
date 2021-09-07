@@ -5,8 +5,6 @@ publication_types:
   - "2"
 authors:
   - admin
-author_notes:
-  - 张侃
 publication: ""
 publication_short: Lonely Planet China Magazine — 《孤独星球》中文杂志
 draft: false

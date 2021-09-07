@@ -1,9 +1,9 @@
 ---
 widget: featured
-widget_id: My Publications
+widget_id: Publications
 headless: true
 weight: 80
-title: My Publications
+title: Publications
 subtitle: ""
 content:
   page_type: publication
@@ -18,5 +18,5 @@ design:
   view: 3
 ---
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+You can use the [filter](./publication/).
 {{% /callout %}}

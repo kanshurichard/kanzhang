@@ -5,8 +5,6 @@ publication_types:
   - "2"
 authors:
   - admin
-author_notes:
-  - 张侃
 publication: ""
 publication_short: World View — 《看世界》杂志
 draft: false

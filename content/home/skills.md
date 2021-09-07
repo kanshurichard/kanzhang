@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: by [TCC](https://travelerscenturyclub.org/countries-and-territories) standard
+- description: by [TCC](https://travelerscenturyclub.org/countries-and-territories) Standard
   icon: plane
   icon_pack: fas
   name: 95 Countries & Territories
@@ -24,7 +24,7 @@ feature:
   icon: globe-europe
   icon_pack: fas
   name: 5 Continents
-- description: by ONE vehicle in Journey of [#Drive2World](https://drive2world.com)
+- description: in Single-car Overlanding Trip of [#Drive2World](https://drive2world.com)
   icon: car-side
   icon_pack: fas
   name: 47 Countries & Territories

@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: Forest
 day_night: true
 font: 'Minimal'
 font_size: L
@@ -21,9 +21,6 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: i (aatt) kanzhang.net 
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
 contact_links:
   - icon: weixin
     icon_pack: fab
@@ -39,15 +36,16 @@ main_menu:
   align: l
   show_logo: true
   show_language: false
+  show_translations: false
   show_day_night: true
   show_search: true
   highlight_active_link: true
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
-address_format: en-us
+date_format: '2006-01-02'
+time_format: '15:04'
+address_format: zh
 
 # Site features
 
