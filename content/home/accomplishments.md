@@ -23,30 +23,34 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- #certificate_url: 
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
+  date_start: "2021-05-01"
+  #description: "ABCDE"
+  organization: 'Lonely&nbsp;Planet&nbsp;China&nbsp;Magazine&nbsp;—《孤独星球》中文杂志'
+  title: Contracted Author
+  url: "https://www.lonelyplanetcn.com/"
+- #certificate_url: 
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  date_start: "2021-01-27"
+  #description: "ABCDE"
+  organization: 'South&nbsp;Reviews&nbsp;Magazine&nbsp;—《南风窗》杂志'
+  title: Contributing Author
+  url: "https://www.nfcmag.com/"
+- #certificate_url: 
+  date_end: ""
+  date_start: "2018-07-27"
+  #description: "ABCDE"
+  organization: 'VCG&nbsp;Group&nbsp;(500px.com)&nbsp;—&nbsp;视觉中国集团'
+  title: Stock Photo Contributor
+  url: "https://www.vcg.com/"
+- #certificate_url: 
+  date_end: ""
+  date_start: "2016-11-01"
+  #description: "ABCDE"
+  organization: 'Ctrip&nbsp;Group&nbsp;(Trip.com)&nbsp;—&nbsp;携程集团'
+  title: Contracted Photographer
+  url: "https://www.trip.com/"
 
 design:
   columns: '2' 

@@ -1,39 +1,32 @@
 ---
-title: Zhang Kan
-role: Travel Writer & Overlander
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+title: Zhang Kan (张侃)
+role: Travel Writer & Photographer
+bio: Travel Writer from China. Traveling around the world since 2016. 
+
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - European Culture & History
+  - Cities and Architectures
+  - Overlanding Trips
+
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
+  - icon: weixin
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: /#contact
+
 organizations:
-  - name: "Travel Blog: Drive2World.com"
-    url: https://drive2world.com/
+
+
 education:
+
 email: ""
+
 superuser: true
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a traveller from China.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="sign-in-alt" pack="fas" >}} Go to my travel blog: {{< staticref "https://drive2world.com/en/" "newtab" >}}www.drive2world.com{{< /staticref >}}
