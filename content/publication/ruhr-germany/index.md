@@ -10,10 +10,11 @@ author_notes:
 publication: ""
 publication_short: World View — 《看世界》杂志
 draft: false
+url_source: https://drive2world.com/archives/1926
 featured: true
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-09-07T10:10:34.801Z
+date: 2021-08-02T00:00.000Z
 ---
