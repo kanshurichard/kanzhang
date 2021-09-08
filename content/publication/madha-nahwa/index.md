@@ -1,7 +1,7 @@
 ---
 title: Oman will be visa-free to China, in fact, a small enclave of it can
   already be entered "visa-free"
-subtitle: 阿曼将对华免签，其实它的一小块飞地早已可“免签”进入
+subtitle: 《阿曼将对华免签，其实它的一小块飞地早已可“免签”进入》
 publication_types:
   - "2"
 authors:
