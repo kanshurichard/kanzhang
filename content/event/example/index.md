@@ -1,59 +1,30 @@
 ---
-title: 'Asian Cities’ Cultural Scenes in the Covid Pandemic: Qingdao, Singapore and Taipei'
-
-event: '“CITIZENS AND THE CITY” SERIES'
-event_url: http://localhost:1313/talk/example-talk/
-
-location: Asian Research Institute, National University of Singapore
-
-
-summary: A webinar speech on behalf of citizens of Qingdao
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-10-13T14:00:00Z"
-date_end: "2020-10-13T15:30:00Z"
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2020-10-13T14:00:00Z"
-
-authors: []
-tags: []
-
-# Is this a featured talk? (true/false)
-featured: true
-
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
+  tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin
+  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
+  urna, suscipit quis sapien eu, pulvinar tempor diam.
 url_pdf: ""
-url_poster: "https://twitter.com/georgecushen"
-url_slides: ""
+summary: A webinar speech on behalf of citizens of Qingdao
+title: "Asian Cities’ Cultural Scenes in the Covid Pandemic: Qingdao, Singapore
+  and Taipei"
+location: Asian Research Institute, National University of Singapore
+date: 2020-10-13T06:00:00.000Z
+date_end: 2020-10-13T07:30:00.000Z
+all_day: false
+event: “CITIZENS AND THE CITY” SERIES
+event_url: https://ari.nus.edu.sg/events/20201013-asian-cities-cultural-scenes/
+featured: true
+authors: []
 url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides: example
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-#projects:
-#- example
+url_slides: ""
+links: []
+publishDate: 2020-10-13T00:00:00.000Z
+tags: []
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  focal_point: CENTER
+url_poster: https://twitter.com/georgecushen
+url_code: ""
 ---
 
 {{% callout note %}}
