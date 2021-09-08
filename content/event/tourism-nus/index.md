@@ -21,9 +21,8 @@ links: []
 publishDate: 2020-10-13T00:00:00.000Z
 tags: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
   focal_point: CENTER
-url_poster: https://twitter.com/georgecushen
+url_poster: poster.jpg
 url_code: ""
 ---
 
