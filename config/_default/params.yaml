@@ -49,12 +49,12 @@ address_format: zh
 
 # Site features
 
-highlight: true
+highlight: false
 highlight_languages:
   - r
 math: false
 diagram: false
-privacy_pack: false
+privacy_pack: true
 edit_page:
   repo_url: ''
   content_dir: ''
