@@ -7,7 +7,7 @@ publication_types:
 authors:
   - admin
 publication: ""
-publication_short: ThePaper.cn (澎湃新闻)
+publication_short: ThePaper.cn — 澎湃新闻
 draft: false
 url_source: https://drive2world.com/archives/1946
 featured: false
