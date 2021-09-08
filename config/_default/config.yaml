@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Zhang Kan # Website name
+title: Kan Zhang — a Travel Writer & Photographer # Website name
 baseurl: 'https://kanzhang.net/' # Website URL
 copyright: '© {year} Zhang Kan' # Footer text, e.g. '© {year} Me'
 

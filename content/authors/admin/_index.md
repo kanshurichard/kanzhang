@@ -1,5 +1,5 @@
 ---
-title: Zhang Kan (张侃)
+title: Kan Zhang (张侃)
 role: Travel Writer & Photographer
 bio: Travel Writer from China. Traveling around the world since 2016. 
 
