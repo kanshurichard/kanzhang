@@ -12,7 +12,7 @@ url_source: https://drive2world.com/zh/archives/1776
 featured: true
 image:
   filename: featured
-  focal_point: CENTER
+  focal_point: BOTTOM
   preview_only: false
 date: 2021-08-01T00:00:00.000Z
 ---
