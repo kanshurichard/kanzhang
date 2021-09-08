@@ -18,5 +18,5 @@ design:
   view: 3
 ---
 {{% callout note %}}
-You can use the [filter](./publication/).
+There shows only selected publications. [Click here](./publication/) for the full list.
 {{% /callout %}}
