@@ -5,14 +5,14 @@
 
 # Appearance
 
-theme: Forest
-day_night: true
-font: 'Minimal'
+theme: MyTheme
+day_night: false
+font: 'MyFont'
 font_size: L
 
 # SEO
 
-site_type: Person
+site_type: ''
 local_business_type: ''
 org_name: ''
 description: ''

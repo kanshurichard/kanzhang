@@ -1,0 +1,11 @@
+# Font style metadata
+name = "MyFont"
+
+# Optional Google font URL
+google_fonts = "family=Cinzel:wght@500&family=Glory:wght@300"
+
+# Font families
+heading_font = "Cinzel"
+body_font = "Glory"
+nav_font = "Cinzel"
+mono_font = "Glory"
