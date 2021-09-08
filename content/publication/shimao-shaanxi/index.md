@@ -4,9 +4,9 @@ subtitle: 《陕北沙漠边缘，藏着一座4300年前的“中国金字塔”
 publication_types:
   - "2"
 authors:
-  - admin
+  - ThePaper.cn — 澎湃新闻
 publication: ""
-publication_short: ThePaper.cn — 澎湃新闻
+publication_short: 
 draft: false
 url_source: https://drive2world.com/archives/1961
 featured: false

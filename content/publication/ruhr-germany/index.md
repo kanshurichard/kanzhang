@@ -4,9 +4,9 @@ subtitle: 《德国鲁尔区：看一座老工业基地的转身》
 publication_types:
   - "2"
 authors:
-  - admin
+  - World View Magazine — 《看世界》杂志
 publication: ""
-publication_short: World View Magazine — 《看世界》杂志
+publication_short: 
 draft: false
 url_source: https://drive2world.com/archives/1926
 featured: true

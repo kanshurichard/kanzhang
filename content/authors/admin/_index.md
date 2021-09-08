@@ -1,11 +1,13 @@
 ---
 title: Kan Zhang (张侃)
-role: Travel Writer & Photographer
+role: 'Sounds:　<i style="font-family:sans-serif;">kʰæn²¹⁴ ʈʂaŋ⁵⁵</i><br>Travel Writer & Photographer'
 bio: Travel Writer from China. Traveling around the world since 2016. 
 
 interests:
   - European Culture & History
-  - Cities and Architectures
+  - Anthropology & Ethnology
+  - Borders & Nationalities
+  - Cities & Architectures
   - Overlanding Trips
 
 social:
@@ -20,6 +22,10 @@ organizations:
 
 
 education:
+  courses:
+  - course: B.S. in Electronic & Information
+    institution: Fudan University
+    year: 2012
 
 email: ""
 

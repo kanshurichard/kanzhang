@@ -15,7 +15,7 @@ content:
     tag: ""
   order: desc
 design:
-  view: 3
+  view: 2
 ---
 {{% callout note %}}
 There shows only selected publications. [Click here](./publication/) for the full list.

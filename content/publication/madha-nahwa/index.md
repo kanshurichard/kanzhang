@@ -5,9 +5,9 @@ subtitle: 《阿曼将对华免签，其实它的一小块飞地早已可“免�
 publication_types:
   - "2"
 authors:
-  - admin
+  - ThePaper.cn — 澎湃新闻
 publication: ""
-publication_short: ThePaper.cn — 澎湃新闻
+publication_short: 
 draft: false
 url_source: https://drive2world.com/archives/1946
 featured: false

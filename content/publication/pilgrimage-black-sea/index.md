@@ -4,9 +4,9 @@ subtitle: 《土耳其黑海公路上的奇遇——因为一张照片，我们�
 publication_types:
   - "2"
 authors:
-  - admin
+  - Cultural Geography Magazine — 《环球人文地理》杂志
 publication: ""
-publication_short: Cultural Geography Magazine — 《环球人文地理》杂志
+publication_short: 
 draft: false
 url_source: https://drive2world.com/zh/archives/1776
 featured: true
