@@ -14,5 +14,5 @@ image:
   filename: featured
   focal_point: CENTER
   preview_only: false
-date: 2021-08-01T00:00:00.000Z
+date: 2021-03-01T00:00:00.000Z
 ---
