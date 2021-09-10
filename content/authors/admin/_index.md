@@ -35,4 +35,4 @@ highlight_name: true
 
 I am a traveller from China.
 
-{{< icon name="sign-in-alt" pack="fas" >}} Go to my travel blog: {{< staticref "https://drive2world.com/en/" "newtab" >}}www.drive2world.com{{< /staticref >}}
+{{< icon name="sign-in-alt" pack="fas" >}} Go to my travel blog: {{< staticref "https://drive2world.com/" "newtab" >}}www.drive2world.com{{< /staticref >}}
