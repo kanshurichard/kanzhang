@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: MyTheme
+theme: ocean
 day_night: false
 font: 'MyFont'
 font_size: L
@@ -35,7 +35,7 @@ main_menu:
   enable: true
   align: l
   show_logo: true
-  show_language: false
+  show_language: true
   show_translations: false
   show_day_night: true
   show_search: true

@@ -1,5 +1,5 @@
 ---
-title: Ruhr Germany — The turn of an old idustrial zone
+title: Ruhr Germany, how an old industrial area was turned around
 subtitle: 《德国鲁尔区：看一座老工业基地的转身》
 publication_types:
   - "2"
@@ -8,8 +8,8 @@ authors:
 publication: ""
 publication_short: 
 draft: false
-url_source: https://drive2world.com/archives/1926
-featured: true
+url_source: https://drive2world.com/en/archives/2171
+featured: false
 image:
   filename: featured
   focal_point: CENTER
