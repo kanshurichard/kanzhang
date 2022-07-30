@@ -1,7 +1,7 @@
 ---
 title: Kan Zhang (张侃)
 role: 'Sounds:　<i style="font-family:sans-serif;">kʰæn²¹⁴ ʈʂaŋ⁵⁵</i><br>Travel Writer & Photographer'
-bio: Travel Writer from China. Traveling around the world since 2016. 
+bio: Globetrotter & Travel Writer from China. Traveling around the world since 2016. 
 
 interests:
   - European Culture & History
@@ -33,6 +33,6 @@ superuser: true
 highlight_name: true
 ---
 
-I am a traveller from China.
+I am a globetrotter from China.
 
 {{< icon name="sign-in-alt" pack="fas" >}} Go to my travel blog: {{< staticref "https://drive2world.com/" "newtab" >}}www.drive2world.com{{< /staticref >}}
