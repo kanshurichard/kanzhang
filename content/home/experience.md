@@ -29,30 +29,25 @@ experience:
     location: China
     date_start: '2020-07-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+
         
   - title: Drive2World — Americas
     company: drive2world.com
     company_url: ''
     #company_logo: org-x
-    location: California
+    #location: California
     date_start: '2018-12-12'
     date_end: '2019-11-30'
-    description: Taught electronic engineering and researched semiconductor physics.
+    #description: Taught electronic engineering and researched semiconductor physics.
 
   - title: Drive2World — Asia, Europe & Africa
     company: drive2world.com
     company_url: ''
     #company_logo: org-x
-    location: California
+    #location: California
     date_start: '2018-01-17'
     date_end: '2018-07-26'
-    description: Taught electronic engineering and researched semiconductor physics.
+    ##description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
