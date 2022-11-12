@@ -1,6 +1,6 @@
 ---
 title: East of West, West of East
-summary: An East-Asian perspective of East Europe
+summary: An Asian perspective of East Europe
 tags:
 - East Europe
 date: "2022-10-01T00:00:00Z"
@@ -17,7 +17,7 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-#url_code: ""
+#url_code: "
 #url_pdf: ""
 #url_slides: ""
 #url_video: ""
