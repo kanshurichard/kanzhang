@@ -1,5 +1,5 @@
 ---
-abstract: 
+#abstract: 这场webinar是National University of Singapore的Asian Research Institute
 url_pdf: ""
 summary: A webinar lecture on behalf of citizens of Qingdao
 title: "Asian Cities’ Cultural Scenes in the Covid Pandemic: Qingdao, Singapore

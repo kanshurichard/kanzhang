@@ -1,5 +1,5 @@
 ---
-title: Right-turning Cyprus, hardly back on the unified track
+title: The right-turning Cyprus, the hard way back to unity
 subtitle: 《右转的塞浦路斯，难回统一轨道》
 publication_types:
   - "2"
