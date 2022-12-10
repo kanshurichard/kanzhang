@@ -13,7 +13,7 @@ featured: true
 image:
   filename: featured
   focal_point: TOP
-  preview_only: false
+  preview_only: false 
 date: 2022-06-01T10:00:00.000Z
 ---
 
