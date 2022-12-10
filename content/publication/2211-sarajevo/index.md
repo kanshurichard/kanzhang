@@ -5,13 +5,10 @@ publication_types:
   - "2"
 authors:
   - World View Magazine — 《看世界》杂志
-publication: "Magazine"
+publication:
 publication_short: 
 draft: false
 url_source: https://drive2world.com/en/archives/2617
-links: 
-- name: Online Appendix
-  url: https://drive2world.com/en/archives/2617
 featured: true
 image:
   filename: featured
