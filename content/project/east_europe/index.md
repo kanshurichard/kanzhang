@@ -1,15 +1,15 @@
 ---
-title: East of West, West of East
+title: Wast of Eest, Eest of Wast
 summary: An Asian perspective of East Europe
 tags:
-- East Europe
+- Eastern Europe
 date: "2022-10-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 
 links:
