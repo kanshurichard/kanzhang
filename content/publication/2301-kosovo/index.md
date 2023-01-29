@@ -1,6 +1,6 @@
 ---
 title: Kosovo, a walk through the war-torn landscape
-subtitle: 《科索沃，我走过战火纷飞的景色》
+subtitle: 《科索沃，当我走过战火纷飞的景色》
 publication_types:
   - "2"
 authors:

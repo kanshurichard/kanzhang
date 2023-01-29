@@ -9,7 +9,7 @@ publication: ""
 publication_short: 
 draft: false
 url_source: https://drive2world.com/zh/archives/1776
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: CENTER
