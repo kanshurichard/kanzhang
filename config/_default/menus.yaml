@@ -10,9 +10,6 @@ main:
   - name: Blogs (drive2world.com)
     url: 'https://drive2world.com/en/'
     weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
   - name: Talks
     url: '#talks'
     weight: 40
